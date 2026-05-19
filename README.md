@@ -144,7 +144,11 @@ npm run dev
 |--------------------|-----------|----------------|
 | ![Customer Dashboard]()| ![Cart Page]() | ![Product Detail]() |
 
+<<<<<<< HEAD
 --- 
+=======
+---
+>>>>>>> 31e68c466c0679dc9b3d1e8719f622b4e0b01260
 
 ## 🔮 Future Improvements
 
@@ -182,4 +186,8 @@ For questions or support, please reach out to:
 <div align="center">
   <sub>Built with ❤️ using React & Tailwind CSS</sub>
 </div>
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 31e68c466c0679dc9b3d1e8719f622b4e0b01260
