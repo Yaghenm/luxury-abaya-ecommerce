@@ -178,7 +178,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📧 Contact
 
 For questions or support, please reach out to:
-- Email: your-email@example.com
+- Email: yaghnaif@gmail.com
 - GitHub: [@Yaghenm](https://github.com/Yaghenm)
 
 ---
